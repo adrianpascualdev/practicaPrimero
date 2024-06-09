@@ -1,4 +1,4 @@
-package Shop.Test;
+package Test;
 
 import Shop.ClothingItem;
 import Shop.Inventory;
